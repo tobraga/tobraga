@@ -3,7 +3,6 @@
 - 💻🖥       Técnico em Informática
 - 💻         Ciência da Computação 7/8
 - ⚽🎮📚🍟  Esportes, livros e batata
-- ❤          Jenni
 - 🧘🏽‍♀️          God, live and carpe diem
 
 <div align="center">

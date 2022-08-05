@@ -1,9 +1,9 @@
 <!--- Primeira tela de commits e estrelas--->
 ### Hello World! I'm Max Braga.
 - 💻🖥       Técnico em Informática
-- 💻         Ciência da Computação 7/8
+- 💻         Ciência da Computação 8/8
 - ⚽🎮📚🍟  Esportes, livros e batata
-- 🧘🏽‍♀️          God, live and carpe diem
+- 🧘🏽‍♀️          God, Jenni and carpe diem
 
 <div align="center">
   <a href="https://github.com/tobraga">

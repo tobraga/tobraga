@@ -1,7 +1,7 @@
 <!--- Primeira tela de commits e estrelas--->
 ### Hello World! I'm Max Braga.
-- 💻🖥       Técnico em Informática
-- 💻         Ciência da Computação 8/8
+- 💻🖥       TI
+- 💻         Ciência da Computação - UFPA
 - ⚽🎮📚🍟  Esportes, livros e batata
 - 🧘🏽‍♀️          God, Jenni and carpe diem
 
